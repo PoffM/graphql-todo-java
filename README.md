@@ -1,4 +1,4 @@
-# graphql-todo-java
+# graphql-todo-java [![Build Status](https://travis-ci.org/PoffM/graphql-todo-java.svg?branch=master)](https://travis-ci.org/PoffM/graphql-todo-java)
 GraphQL todo-list API implemented in Java using GraphQL SPQR and Spring Boot
 
 Implements the Relay connection using JPA to fetch data from an SQL database.
